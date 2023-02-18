@@ -1,26 +1,24 @@
 <pre>
-Gereksinimler:
+Requirements:
 --------------
-Rastgele Sayı -> integer Rastgele Sayı Kütüphanesi
-Kullanıcı Tahmini -> integer Kullanıcıdan girdi al
-Tahmin Sayısı -> integer
+Random Number -> integer Random Number Library
+User Guess -> integer Get input from user
+Number of Guesses -> integer
 
-Senaryo:
+Scenario:
 --------------
-Rastgele sayı üret.
-Kullanıcıdan bir tahmin iste
+Generate random number.
+Ask the user for a guess.
 
-/1\Karşılatırma yap (sayı vs tahmin)
-		sayı > tahmin
-			tahmini yükselt
-			sayac++
-			return/1\
-
-		sayı < tahmin
-			tahmini düşürt
-			sayac++
-			return/1\
-
-		sayı == tahmin
-			tebrik açıklaması
+/1\ Compare (number vs guess)
+          number>guess
+              raise the estimate
+              counter++
+              return/1\
+          number<guess
+              lower the estimate
+              counter++
+              return/1\
+          number == guess
+              congratulations
 </pre>
