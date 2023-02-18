@@ -1,10 +1,9 @@
 <pre>
 Gereksinimler:
 --------------
-Rastgele Sayı 
-			-> Rastgele Sayı Kütüphanesi
-Kullanıcı Tahmini ->
-Tahmin Sayısı
+Rastgele Sayı -> integer Rastgele Sayı Kütüphanesi
+Kullanıcı Tahmini -> integer Kullanıcıdan girdi al
+Tahmin Sayısı -> integer
 
 Senaryo:
 --------------
