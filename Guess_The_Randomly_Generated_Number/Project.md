@@ -10,15 +10,17 @@ Scenario:
 Generate random number.
 Ask the user for a guess.
 
-/1\ Compare (number vs guess)
-          number>guess
+/1\Compare (number vs guess)
+          number > guess
               raise the estimate
               counter++
               return/1\
-          number<guess
+
+          number < guess
               lower the estimate
               counter++
               return/1\
+
           number == guess
               congratulations
 </pre>
