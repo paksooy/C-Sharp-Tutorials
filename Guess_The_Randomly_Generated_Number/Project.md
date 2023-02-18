@@ -1,4 +1,4 @@
-
+<pre>
 Gereksinimler:
 --------------
 Rastgele Sayı 
@@ -24,4 +24,4 @@ Kullanıcıdan bir tahmin iste
 
 		sayı == tahmin
 			tebrik açıklaması
-			</pre>
+</pre>
