@@ -1,0 +1,8 @@
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\bin\Debug\Guess-the-randomly-generated-number.exe.config
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\bin\Debug\Guess-the-randomly-generated-number.exe
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\bin\Debug\Guess-the-randomly-generated-number.pdb
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\obj\Debug\Guess-the-randomly-generated-number.csproj.AssemblyReference.cache
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\obj\Debug\Guess-the-randomly-generated-number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\obj\Debug\Guess-the-randomly-generated-number.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\obj\Debug\Guess-the-randomly-generated-number.exe
+C:\Users\Mustafa Paksoy\OneDrive\Masaüstü\My C#\Guess-the-randomly-generated-number\obj\Debug\Guess-the-randomly-generated-number.pdb
